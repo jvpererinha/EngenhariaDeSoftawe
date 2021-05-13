@@ -9,7 +9,7 @@
  <br>
  </h1>
  <h2>
- <p><a href="https://github.com/jvpererinha">• João Victor</a> </p>
+ <p><a href="https://github.com/jvpererinha">• João Victor Pereira Dias</a> </p>
 
  <p><a href="https://github.com/kodagmaster">• Daniel Silva</a> </p>
  
